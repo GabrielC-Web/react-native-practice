@@ -29,7 +29,6 @@ const styles = StyleSheet.create({
     backgroundColor: "#000",
     alignItems: "center",
     justifyContent: "center",
-    paddingTop: Constants.statusBarHeight,
-    padding: 12
+    paddingHorizontal: 12
   }
 });
